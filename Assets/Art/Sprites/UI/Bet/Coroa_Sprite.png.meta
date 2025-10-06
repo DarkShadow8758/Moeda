@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 673a625592e2d6342b71aea4b1faba2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5063705095367488405
+    second: Coroa_Sprite_0
+  - first:
+      213: -8993575358707912981
+    second: Coroa_Sprite_1
+  - first:
+      213: 1903694310276539001
+    second: Coroa_Sprite_2
+  - first:
+      213: -4178262288870568365
+    second: Coroa_Sprite_3
+  - first:
+      213: 4758630605546647090
+    second: Coroa_Sprite_4
+  - first:
+      213: 5219337986377451201
+    second: Coroa_Sprite_5
+  - first:
+      213: 6532117168098593186
+    second: Coroa_Sprite_6
+  - first:
+      213: 4917834672740506922
+    second: Coroa_Sprite_7
+  - first:
+      213: -1706755330818140531
+    second: Coroa_Sprite_8
+  - first:
+      213: -2378729483427012484
+    second: Coroa_Sprite_9
+  - first:
+      213: 4197962186815595018
+    second: Coroa_Sprite_10
+  - first:
+      213: 1787782530286869623
+    second: Coroa_Sprite_11
+  - first:
+      213: -6813358024258544638
+    second: Coroa_Sprite_12
+  - first:
+      213: 4461859726459999734
+    second: Coroa_Sprite_13
+  - first:
+      213: -817238491722135661
+    second: Coroa_Sprite_14
+  - first:
+      213: 8148549233518641962
+    second: Coroa_Sprite_15
+  - first:
+      213: 5496192253097026136
+    second: Coroa_Sprite_16
+  - first:
+      213: -7635704064736161256
+    second: Coroa_Sprite_17
+  - first:
+      213: -4363662148208753001
+    second: Coroa_Sprite_18
+  - first:
+      213: -3886054646246070096
+    second: Coroa_Sprite_19
+  - first:
+      213: 8939594222924617099
+    second: Coroa_Sprite_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coroa_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 69
+        width: 282
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f6b0a4f4e54640800000000000000
+      internalID: 5063705095367488405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 69
+        width: 284
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee228b7cd6603380800000000000000
+      internalID: -8993575358707912981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 69
+        width: 284
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97227f493e74b6a10800000000000000
+      internalID: 1903694310276539001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 68
+        width: 288
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e857de594d306c0800000000000000
+      internalID: -4178262288870568365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 68
+        width: 292
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ee8ecc25d0a0240800000000000000
+      internalID: 4758630605546647090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 67
+        width: 298
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60bb0de30de6840800000000000000
+      internalID: 5219337986377451201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 66
+        width: 306
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94fbba4fdb6aa50800000000000000
+      internalID: 6532117168098593186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 64
+        width: 318
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1ccc3498af3440800000000000000
+      internalID: 4917834672740506922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 62
+        width: 334
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869414c1136058e0800000000000000
+      internalID: -1706755330818140531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 59
+        width: 354
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70a59b432e0dfed0800000000000000
+      internalID: -2378729483427012484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 57
+        width: 368
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026aadfd58224a30800000000000000
+      internalID: 4197962186815595018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 59
+        width: 356
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd56d3dba7fc810800000000000000
+      internalID: 1787782530286869623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 62
+        width: 336
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1384c9f61271a0800000000000000
+      internalID: -6813358024258544638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 6591
+        y: 64
+        width: 318
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5154108c5bbed30800000000000000
+      internalID: 4461859726459999734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 7097
+        y: 66
+        width: 306
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974024fbe598a4f0800000000000000
+      internalID: -817238491722135661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 7601
+        y: 67
+        width: 298
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2309a2ea56751170800000000000000
+      internalID: 8148549233518641962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 8104
+        y: 68
+        width: 292
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522a1febb5664c40800000000000000
+      internalID: 5496192253097026136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 8606
+        y: 68
+        width: 288
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812156bdb97880690800000000000000
+      internalID: -7635704064736161256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 9108
+        y: 69
+        width: 284
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796033855682173c0800000000000000
+      internalID: -4363662148208753001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 9608
+        y: 69
+        width: 284
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82fb073e5f11ac0800000000000000
+      internalID: -3886054646246070096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coroa_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 10109
+        y: 69
+        width: 282
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855e8de491df0c70800000000000000
+      internalID: 8939594222924617099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

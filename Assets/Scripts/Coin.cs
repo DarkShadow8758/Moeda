@@ -4,17 +4,28 @@ using UnityEngine.Video;
 
 public class Coin : MonoBehaviour
 {
-    public string type;
+    [Header("Coin Attributes")]
+    [SerializeField] private string descriptionCoin;
+    [SerializeField] private string nameCoin;
+    [SerializeField] private int costCoin;
+    [Range(0, 10)]
+    [SerializeField] private float mult;
+    [Range(0, 100)]
+    [SerializeField]private int chanceHead = 50;
+
     private Animator animator;
     private int random;
     private GameManager gameManager;
+    private RandomManager randomManager;
+    
 
     void Start()
     {
         animator = GetComponent<Animator>();
-        if (gameManager == null)
+        gameManager = GameManager.Instance;
+        if (randomManager == null)
         {
-            gameManager = FindObjectOfType<GameManager>();
+            randomManager = FindObjectOfType<RandomManager>();
         }
     }
 
@@ -29,7 +40,7 @@ public class Coin : MonoBehaviour
                 Collider2D hitCollider = Physics2D.OverlapPoint(touchPosition);
                 if (hitCollider != null && hitCollider.gameObject == gameObject)
                 {
-                     random = UnityEngine.Random.Range(0, 2);
+                    random = randomManager != null ? randomManager.GetRandom(chanceHead) : Random.Range(0, 2);
                     switch (random)
                     {
                         case 0:
@@ -48,9 +59,17 @@ public class Coin : MonoBehaviour
         }   
     }
 
-    public void GetAposta(int aposta)
+    public string GetDescription()
     {
-        //apostado = aposta;
+        return descriptionCoin;
+    }
+    public string GetName()
+    {
+        return nameCoin;
+    }
+    public int GetCost()
+    {
+        return costCoin;
     }
 
     private void OnAnimationComplete()
@@ -62,7 +81,7 @@ public class Coin : MonoBehaviour
     {
         yield return new WaitForSeconds(5f);
         Destroy(gameObject);
-        gameManager.GetResultado(random);
+        gameManager.GetResultado(random, mult);
     }
 }
 

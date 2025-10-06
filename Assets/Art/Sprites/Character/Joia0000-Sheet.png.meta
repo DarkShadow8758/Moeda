@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: d7de0bdbd93a98347a597b935349987b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8177068446428670029
+    second: Joia0000-Sheet_0
+  - first:
+      213: -7201885669055219224
+    second: Joia0000-Sheet_1
+  - first:
+      213: -3911717001110409104
+    second: Joia0000-Sheet_2
+  - first:
+      213: 7536615759797630517
+    second: Joia0000-Sheet_3
+  - first:
+      213: 248893856919357429
+    second: Joia0000-Sheet_4
+  - first:
+      213: -1051717135694812891
+    second: Joia0000-Sheet_5
+  - first:
+      213: -5269113230688109967
+    second: Joia0000-Sheet_6
+  - first:
+      213: -5087898063902835550
+    second: Joia0000-Sheet_7
+  - first:
+      213: 6111446862794047362
+    second: Joia0000-Sheet_8
+  - first:
+      213: 6562609238323900540
+    second: Joia0000-Sheet_9
+  - first:
+      213: 5655012249513586883
+    second: Joia0000-Sheet_10
+  - first:
+      213: -3025957266247584456
+    second: Joia0000-Sheet_11
+  - first:
+      213: -40604049638378151
+    second: Joia0000-Sheet_12
+  - first:
+      213: 6522676884626572816
+    second: Joia0000-Sheet_13
+  - first:
+      213: -5810772390757069999
+    second: Joia0000-Sheet_14
+  - first:
+      213: -3817292964617907576
+    second: Joia0000-Sheet_15
+  - first:
+      213: 2159682999140603235
+    second: Joia0000-Sheet_16
+  - first:
+      213: 6760358676500933975
+    second: Joia0000-Sheet_17
+  - first:
+      213: -3210133239144542612
+    second: Joia0000-Sheet_18
+  - first:
+      213: 3936279532181639995
+    second: Joia0000-Sheet_19
+  - first:
+      213: -5445767365591727991
+    second: Joia0000-Sheet_20
+  - first:
+      213: -8352165741787146474
+    second: Joia0000-Sheet_21
+  - first:
+      213: 7633300881600783339
+    second: Joia0000-Sheet_22
+  - first:
+      213: -6306381962258129762
+    second: Joia0000-Sheet_23
+  - first:
+      213: 6567913727138610356
+    second: Joia0000-Sheet_24
+  - first:
+      213: 4902938593816325404
+    second: Joia0000-Sheet_25
+  - first:
+      213: -8521593903882230541
+    second: Joia0000-Sheet_26
+  - first:
+      213: -4212845337577884539
+    second: Joia0000-Sheet_27
+  - first:
+      213: 8752188385239771984
+    second: Joia0000-Sheet_28
+  - first:
+      213: -4865798232761871393
+    second: Joia0000-Sheet_29
+  - first:
+      213: 6928648547933198539
+    second: Joia0000-Sheet_30
+  - first:
+      213: -7566610468721361029
+    second: Joia0000-Sheet_31
+  - first:
+      213: 1764039852094246375
+    second: Joia0000-Sheet_32
+  - first:
+      213: -9174575206075640841
+    second: Joia0000-Sheet_33
+  - first:
+      213: 5027391553867048167
+    second: Joia0000-Sheet_34
+  - first:
+      213: 1271660680573200061
+    second: Joia0000-Sheet_35
+  - first:
+      213: -8683414452594403891
+    second: Joia0000-Sheet_36
+  - first:
+      213: -7471135429201675084
+    second: Joia0000-Sheet_37
+  - first:
+      213: 4700533384781585803
+    second: Joia0000-Sheet_38
+  - first:
+      213: 5352269469157241752
+    second: Joia0000-Sheet_39
+  - first:
+      213: 7785147617695101217
+    second: Joia0000-Sheet_40
+  - first:
+      213: -6981472093282248727
+    second: Joia0000-Sheet_41
+  - first:
+      213: -8187319225435109165
+    second: Joia0000-Sheet_42
+  - first:
+      213: -5059578225340579968
+    second: Joia0000-Sheet_43
+  - first:
+      213: -724659622375330723
+    second: Joia0000-Sheet_44
+  - first:
+      213: 429076805376700240
+    second: Joia0000-Sheet_45
+  - first:
+      213: -6955254128743177799
+    second: Joia0000-Sheet_46
+  - first:
+      213: -6173807259882481688
+    second: Joia0000-Sheet_47
+  - first:
+      213: -6220430809849648964
+    second: Joia0000-Sheet_48
+  - first:
+      213: 5449168195791331803
+    second: Joia0000-Sheet_49
+  - first:
+      213: -2599144385892069344
+    second: Joia0000-Sheet_50
+  - first:
+      213: -1771920582531873744
+    second: Joia0000-Sheet_51
+  - first:
+      213: -6505857350854391171
+    second: Joia0000-Sheet_52
+  - first:
+      213: -3938351065371339905
+    second: Joia0000-Sheet_53
+  - first:
+      213: -2729440660864878263
+    second: Joia0000-Sheet_54
+  - first:
+      213: -3877728982200720580
+    second: Joia0000-Sheet_55
+  - first:
+      213: 8931755981061576983
+    second: Joia0000-Sheet_56
+  - first:
+      213: -466605737477029806
+    second: Joia0000-Sheet_57
+  - first:
+      213: -1305291575320225773
+    second: Joia0000-Sheet_58
+  - first:
+      213: -1220275018294773217
+    second: Joia0000-Sheet_59
+  - first:
+      213: 8972111422028425178
+    second: Joia0000-Sheet_60
+  - first:
+      213: 4053534961283571147
+    second: Joia0000-Sheet_61
+  - first:
+      213: 2926849401753591460
+    second: Joia0000-Sheet_62
+  - first:
+      213: 8437590054625102662
+    second: Joia0000-Sheet_63
+  - first:
+      213: 5571152511004567647
+    second: Joia0000-Sheet_64
+  - first:
+      213: 283922237625489431
+    second: Joia0000-Sheet_65
+  - first:
+      213: 6069507773441143527
+    second: Joia0000-Sheet_66
+  - first:
+      213: -8205421667980740453
+    second: Joia0000-Sheet_67
+  - first:
+      213: -7289790229524615343
+    second: Joia0000-Sheet_68
+  - first:
+      213: -6578967980485233963
+    second: Joia0000-Sheet_69
+  - first:
+      213: 8921416339508007104
+    second: Joia0000-Sheet_70
+  - first:
+      213: 6439119023208516028
+    second: Joia0000-Sheet_71
+  - first:
+      213: -7145297438766703455
+    second: Joia0000-Sheet_72
+  - first:
+      213: 1225276583050400606
+    second: Joia0000-Sheet_73
+  - first:
+      213: 4822632239025010278
+    second: Joia0000-Sheet_74
+  - first:
+      213: -3582959864676416290
+    second: Joia0000-Sheet_75
+  - first:
+      213: -8760121541789197039
+    second: Joia0000-Sheet_76
+  - first:
+      213: -1663280002125523533
+    second: Joia0000-Sheet_77
+  - first:
+      213: -4916097046061328001
+    second: Joia0000-Sheet_78
+  - first:
+      213: 4552951653621387124
+    second: Joia0000-Sheet_79
+  - first:
+      213: -1803704532543183625
+    second: Joia0000-Sheet_80
+  - first:
+      213: 1882833575658756311
+    second: Joia0000-Sheet_81
+  - first:
+      213: -7142284736793608880
+    second: Joia0000-Sheet_82
+  - first:
+      213: 5787887204576994556
+    second: Joia0000-Sheet_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joia0000-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d821801c2d63d4592c906b97fb62c7
+      internalID: -1858840749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0086deb72d49b94fbabdfa641903fc2
+      internalID: 489267935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bfe5561f490b24dac1252d07aadd4c
+      internalID: -1020511686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5781b2b8c74d448c03d742e92465a
+      internalID: 128973615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639dc339da6999e4ab50e5470b3191e0
+      internalID: 476989529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a73e1fcbae4f042a4bd3fbde59d8ca
+      internalID: -128660199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8394
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a4238a2b1bcb47ad7cda5351439fb
+      internalID: -1739440390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9793
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156737dd2a2a6df4f9ca04ed2336b011
+      internalID: 1355834638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11192
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e700f3ed69b9145aa1e66397260d2a
+      internalID: -435900862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joia0000-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 12591
+        y: 0
+        width: 1399
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1038192a66d94db9561b4e006ead0
+      internalID: 2041580715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb7f2b617f94b2242a36414311989128
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Joia0000-Sheet_0: -1858840749
+      Joia0000-Sheet_1: 489267935
+      Joia0000-Sheet_2: -1020511686
+      Joia0000-Sheet_3: 128973615
+      Joia0000-Sheet_4: 476989529
+      Joia0000-Sheet_5: -128660199
+      Joia0000-Sheet_6: -1739440390
+      Joia0000-Sheet_7: 1355834638
+      Joia0000-Sheet_8: -435900862
+      Joia0000-Sheet_9: 2041580715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
