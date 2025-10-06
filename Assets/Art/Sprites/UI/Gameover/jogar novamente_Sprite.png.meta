@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: b73eb222b459758449870345a8c3dfdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4746443624908109499
+    second: jogar novamente_Sprite_0
+  - first:
+      213: 5307530839204361777
+    second: jogar novamente_Sprite_1
+  - first:
+      213: 1834150751940069217
+    second: jogar novamente_Sprite_2
+  - first:
+      213: 9037144864802721648
+    second: jogar novamente_Sprite_3
+  - first:
+      213: 7347997520544277917
+    second: jogar novamente_Sprite_4
+  - first:
+      213: -8807072622649372993
+    second: jogar novamente_Sprite_5
+  - first:
+      213: -4375201393629954504
+    second: jogar novamente_Sprite_6
+  - first:
+      213: 4741631542604627362
+    second: jogar novamente_Sprite_7
+  - first:
+      213: 6197100783227157441
+    second: jogar novamente_Sprite_8
+  - first:
+      213: 1367166805763716631
+    second: jogar novamente_Sprite_9
+  - first:
+      213: -6957544806282344318
+    second: jogar novamente_Sprite_10
+  - first:
+      213: 617400886939388345
+    second: jogar novamente_Sprite_11
+  - first:
+      213: 8572171467988947869
+    second: jogar novamente_Sprite_12
+  - first:
+      213: -5969084209516751016
+    second: jogar novamente_Sprite_13
+  - first:
+      213: -2951372125658228066
+    second: jogar novamente_Sprite_14
+  - first:
+      213: 1689031401614769849
+    second: jogar novamente_Sprite_15
+  - first:
+      213: 165995684022855775
+    second: jogar novamente_Sprite_16
+  - first:
+      213: -1891598001005416228
+    second: jogar novamente_Sprite_17
+  - first:
+      213: -2994203329994451975
+    second: jogar novamente_Sprite_18
+  - first:
+      213: -617275727185249930
+    second: jogar novamente_Sprite_19
+  - first:
+      213: -3155425198429190057
+    second: jogar novamente_Sprite_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 302
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494feebbae312eb0800000000000000
+      internalID: -4746443624908109499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 48
+        width: 304
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f4318d2328a940800000000000000
+      internalID: 5307530839204361777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 48
+        width: 306
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16747e12466347910800000000000000
+      internalID: 1834150751940069217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 47
+        width: 308
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fcf4aaf536a6d70800000000000000
+      internalID: 9037144864802721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 46
+        width: 312
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952e7640d459f560800000000000000
+      internalID: 7347997520544277917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 45
+        width: 318
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe8aef8c1ef6c580800000000000000
+      internalID: -8807072622649372993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 43
+        width: 328
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e74e763892843c0800000000000000
+      internalID: -4375201393629954504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 41
+        width: 340
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad7cb804c8adc140800000000000000
+      internalID: 4741631542604627362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 37
+        width: 356
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbbc852456800650800000000000000
+      internalID: 6197100783227157441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 33
+        width: 380
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716704e57f629f210800000000000000
+      internalID: 1367166805763716631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 30
+        width: 394
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2884da08cd5d17f90800000000000000
+      internalID: -6957544806282344318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 32
+        width: 382
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98806e5d2719800800000000000000
+      internalID: 617400886939388345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 37
+        width: 358
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935837688876f670800000000000000
+      internalID: 8572171467988947869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 40
+        width: 340
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8575c59798d892da0800000000000000
+      internalID: -5969084209516751016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 43
+        width: 328
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad62250be9a07d0800000000000000
+      internalID: -2951372125658228066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 45
+        width: 318
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be7ab36c15a07710800000000000000
+      internalID: 1689031401614769849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 8094
+        y: 46
+        width: 312
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f582e64f13cbd4200800000000000000
+      internalID: 165995684022855775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 8596
+        y: 47
+        width: 308
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0bb34e3a1bfb5e0800000000000000
+      internalID: -1891598001005416228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 9098
+        y: 48
+        width: 304
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f393627fe37276d0800000000000000
+      internalID: -2994203329994451975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 9598
+        y: 48
+        width: 304
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f6a02ffefe67f0800000000000000
+      internalID: -617275727185249930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar novamente_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 10099
+        y: 48
+        width: 302
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758cf4c008da534d0800000000000000
+      internalID: -3155425198429190057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
