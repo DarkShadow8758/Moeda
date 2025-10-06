@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "menubot\xE3o_Sprite_0": -800597176149424677
+      "menubot\xE3o_Sprite_1": 1092530912184230790
+      "menubot\xE3o_Sprite_10": -5184413260995189790
+      "menubot\xE3o_Sprite_11": 1748573761289630031
+      "menubot\xE3o_Sprite_12": 1114946123498740559
+      "menubot\xE3o_Sprite_13": -4344046753591166755
+      "menubot\xE3o_Sprite_14": 9221757621044259910
+      "menubot\xE3o_Sprite_15": -467435572316398080
+      "menubot\xE3o_Sprite_16": 7422525227722431166
+      "menubot\xE3o_Sprite_17": -2021167809160721701
+      "menubot\xE3o_Sprite_18": -8058687655371182445
+      "menubot\xE3o_Sprite_19": 7954776474790750359
+      "menubot\xE3o_Sprite_2": -98561527930137243
+      "menubot\xE3o_Sprite_20": -1783531909500431055
+      "menubot\xE3o_Sprite_3": 8865609034411174472
+      "menubot\xE3o_Sprite_4": 6782675987479423774
+      "menubot\xE3o_Sprite_5": 3461979346938988191
+      "menubot\xE3o_Sprite_6": -8589129556460724865
+      "menubot\xE3o_Sprite_7": 6149677382398592832
+      "menubot\xE3o_Sprite_8": 5162639552274561355
+      "menubot\xE3o_Sprite_9": 5746056532166030595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

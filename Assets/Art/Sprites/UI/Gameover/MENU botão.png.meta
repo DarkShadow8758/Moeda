@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "MENU bot\xE3o_0": -1126402726202197188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

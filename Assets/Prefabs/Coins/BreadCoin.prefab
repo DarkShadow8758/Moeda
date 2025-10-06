@@ -52,7 +52,7 @@ MonoBehaviour:
     da manteiga para baixo! 65% de chance de cair Manteiga (CARA)"
   nameCoin: "P\xE3o com Manteiga"
   costCoin: 3
-  mult: 1
+  multScore: 1
   chanceHead: 65
 --- !u!212 &5639425414592975360
 SpriteRenderer:

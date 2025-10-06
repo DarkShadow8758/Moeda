@@ -52,7 +52,7 @@ MonoBehaviour:
     pontos ao pontuar com ela."
   nameCoin: Moeda Cyber
   costCoin: 2
-  mult: 1.5
+  multScore: 1.5
   chanceHead: 50
 --- !u!212 &5639425414592975360
 SpriteRenderer:

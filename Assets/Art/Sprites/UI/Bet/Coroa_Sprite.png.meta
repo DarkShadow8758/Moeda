@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Coroa_Sprite_0: 5063705095367488405
+      Coroa_Sprite_1: -8993575358707912981
+      Coroa_Sprite_10: 4197962186815595018
+      Coroa_Sprite_11: 1787782530286869623
+      Coroa_Sprite_12: -6813358024258544638
+      Coroa_Sprite_13: 4461859726459999734
+      Coroa_Sprite_14: -817238491722135661
+      Coroa_Sprite_15: 8148549233518641962
+      Coroa_Sprite_16: 5496192253097026136
+      Coroa_Sprite_17: -7635704064736161256
+      Coroa_Sprite_18: -4363662148208753001
+      Coroa_Sprite_19: -3886054646246070096
+      Coroa_Sprite_2: 1903694310276539001
+      Coroa_Sprite_20: 8939594222924617099
+      Coroa_Sprite_3: -4178262288870568365
+      Coroa_Sprite_4: 4758630605546647090
+      Coroa_Sprite_5: 5219337986377451201
+      Coroa_Sprite_6: 6532117168098593186
+      Coroa_Sprite_7: 4917834672740506922
+      Coroa_Sprite_8: -1706755330818140531
+      Coroa_Sprite_9: -2378729483427012484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
