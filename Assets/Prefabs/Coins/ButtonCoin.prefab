@@ -51,7 +51,7 @@ MonoBehaviour:
   descriptionCoin: "Um simples bot\xE3o, afinal temos que come\xE7ar de algum lugar."
   nameCoin: "Bot\xE3o"
   costCoin: 1
-  mult: 1
+  multScore: 1
   chanceHead: 50
 --- !u!212 &5639425414592975360
 SpriteRenderer:

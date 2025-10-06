@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      aposta interface hud_0: -2153184810172078522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

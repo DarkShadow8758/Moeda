@@ -9,7 +9,7 @@ public class Coin : MonoBehaviour
     [SerializeField] private string nameCoin;
     [SerializeField] private int costCoin;
     [Range(0, 10)]
-    [SerializeField] private float mult;
+    [SerializeField] private float multScore;
     [Range(0, 100)]
     [SerializeField]private int chanceHead = 50;
 
@@ -40,7 +40,7 @@ public class Coin : MonoBehaviour
                 Collider2D hitCollider = Physics2D.OverlapPoint(touchPosition);
                 if (hitCollider != null && hitCollider.gameObject == gameObject)
                 {
-                    random = randomManager != null ? randomManager.GetRandom(chanceHead) : Random.Range(0, 2);
+                    random = randomManager != null ? randomManager.FlipCoin(chanceHead) : Random.Range(0, 2);
                     switch (random)
                     {
                         case 0:
@@ -81,7 +81,7 @@ public class Coin : MonoBehaviour
     {
         yield return new WaitForSeconds(5f);
         Destroy(gameObject);
-        gameManager.GetResultado(random, mult);
+        gameManager.GetResult(random, multScore);
     }
 }
 

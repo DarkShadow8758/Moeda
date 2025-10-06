@@ -33,15 +33,12 @@ public class ShopManager : MonoBehaviour
 
     public void BuyCoin(GameObject coin)
     {
-        if (gameManager == null)
-        {
-            Debug.Log("gamemanager"); return;
-        }
+        if (gameManager == null) return;
+        
         Debug.Log("coin card" + coin);
 
         Coin coinScript = coin.GetComponent<Coin>();
         if (coinScript == null) return;
-        Debug.Log("coinscript");
         int cost = coinScript.GetCost();
 
         if (gameManager.coins >= cost)
@@ -49,13 +46,12 @@ public class ShopManager : MonoBehaviour
             gameManager.GainCoin(coin);
             gameManager.SubtractCoin(cost);
 
-            Debug.Log("Moeda comprada!");
-            gameManager.CharacterLike();
+            Debug.Log("moeda comprada!");
             gameManager.BetMode();
         }
         else
         {
-            Debug.Log("Moedas insuficientes!");
+            Debug.Log("moedas insuficientes!");
         }
     }
 }

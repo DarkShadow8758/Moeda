@@ -7,6 +7,7 @@ using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
 {
+    [Header("UI Infos")]
     public int coins = 1;
     public float score;
     private int choice;
@@ -79,12 +80,12 @@ public class GameManager : MonoBehaviour
                     if (hitCollider.gameObject == choiceHead)
                     {
                         choice = 0;
-                        Apostou();
+                        OnBetPlaced();
                     }
                     else if (hitCollider.gameObject == choiceTail)
                     {
                         choice = 1;
-                        Apostou();
+                        OnBetPlaced();
                     }
                     betInterface.SetActive(false);
                 }
@@ -93,7 +94,7 @@ public class GameManager : MonoBehaviour
 
     }
 
-    private void Apostou()
+    private void OnBetPlaced()
     {
         if (prefabMoeda != null)
         {
@@ -101,20 +102,20 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void GetResultado(int resultado, float multiplicador)
+    public void GetResult(int result, float multScore)
     {
-        if (resultado != choice)
+        if (result != choice)
         {
             SubtractCoin(1);
             currentCoin -= 1;
-            Debug.Log("Você errouuu! resultado " + resultado + " aposta " + choice);
+            Debug.Log("Você errouuu! resultado " + result + " aposta " + choice);
         }
         else
         {
-            Debug.Log("Você ACERTOU! resultado " + resultado + " aposta " + choice);
+            Debug.Log("Você ACERTOU! resultado " + result + " aposta " + choice);
 
             GainCoin(prefabMoeda[currentCoin]);
-            score = score + (100f * multiplicador);
+            score = score + (100f * multScore);
 
         }
         if (coins <= 0)
@@ -123,10 +124,10 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            ProximaAposta();
+            NextRound();
         }
     }
-    private void ProximaAposta()
+    private void NextRound()
     {
         if (round < totalRounds)
         {
@@ -167,12 +168,12 @@ public class GameManager : MonoBehaviour
         listCoins.Add(newCoin);
         prefabMoeda = listCoins.ToArray();
         coins++;
-        characterInterface.GetComponent<Character>().Animate("Like");
+        characterInterface.GetComponent<Character>().CharacterLike();
 
     }
     public void SubtractCoin(int discount)
     {
-        Debug.Log("dsicount:" + discount);
+        Debug.Log("discount:" + discount);
         for (int i = 0; i < discount; i++)
         {
             var listCoins = new System.Collections.Generic.List<GameObject>(prefabMoeda);
@@ -181,11 +182,6 @@ public class GameManager : MonoBehaviour
             prefabMoeda = listCoins.ToArray();
         }
         coins -= discount;
-        characterInterface.GetComponent<Character>().Animate("Damage");
-    }
-
-    public void CharacterLike()
-    {
-        characterInterface.GetComponent<Character>().Animate("Like");
+        characterInterface.GetComponent<Character>().CharacterDamage();     
     }
 }

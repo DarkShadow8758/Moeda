@@ -11,6 +11,7 @@ public class CoinCard : MonoBehaviour
     [SerializeField] private TextMeshProUGUI txtCost;
     private ShopManager shopManager;
     private int cost;
+    [Header("Coin")]
     public GameObject coinPrefab;
     [Header("Interactable")]
     [SerializeField] private GameObject buy;
