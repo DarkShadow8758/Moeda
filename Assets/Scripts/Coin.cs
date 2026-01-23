@@ -1,5 +1,6 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UIElements;
 using UnityEngine.Video;
 
 public class Coin : MonoBehaviour
@@ -17,6 +18,8 @@ public class Coin : MonoBehaviour
     private int random;
     private GameManager gameManager;
     private RandomManager randomManager;
+    private float spd = 5f;
+    private bool anim = false;
     
 
     void Start()
@@ -31,6 +34,11 @@ public class Coin : MonoBehaviour
 
     void Update()
     {
+        if (anim)
+        {
+            transform.position = Vector3.MoveTowards(transform.position, gameManager.coinUI.transform.position, spd * Time.deltaTime); 
+            transform.localScale = Vector3.Lerp(transform.localScale, gameManager.coinUI.transform.localScale, spd/2 * Time.deltaTime);
+        }
         if (Input.touchCount > 0)
         {
             Touch touch = Input.GetTouch(0);
@@ -78,10 +86,16 @@ public class Coin : MonoBehaviour
     }
 
     private System.Collections.IEnumerator DestroyAfterDelay()
-    {
+    { 
         yield return new WaitForSeconds(5f);
-        Destroy(gameObject);
-        gameManager.GetResult(random, multScore);
+        if (gameManager.GetResult(random, multScore))
+        {
+            anim = true;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 }
 

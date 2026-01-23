@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 {
     [Header("UI Infos")]
     public int coins = 1;
+    public GameObject coinUI;
     public float score;
     private int choice;
     private int round = 0;
@@ -28,6 +29,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject shopInterface;
     [SerializeField] private GameObject betInterface;
     [SerializeField] private GameObject characterInterface;
+    [SerializeField] private ParticleManager particleManager;
 
 
     public static GameManager Instance;
@@ -102,13 +104,22 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void GetResult(int result, float multScore)
+    public bool GetResult(int result, float multScore)
     {
         if (result != choice)
         {
             SubtractCoin(1);
             currentCoin -= 1;
             Debug.Log("Você errouuu! resultado " + result + " aposta " + choice);
+            if (coins <= 0)
+            {
+                GameOver();
+            }
+            else
+            {
+                NextRound();
+            }
+            return false;
         }
         else
         {
@@ -116,15 +127,10 @@ public class GameManager : MonoBehaviour
 
             GainCoin(prefabMoeda[currentCoin]);
             score = score + (100f * multScore);
-
-        }
-        if (coins <= 0)
-        {
-            GameOver();
-        }
-        else
-        {
+                  
             NextRound();
+            
+            return true;
         }
     }
     private void NextRound()
@@ -169,6 +175,8 @@ public class GameManager : MonoBehaviour
         prefabMoeda = listCoins.ToArray();
         coins++;
         characterInterface.GetComponent<Character>().CharacterLike();
+        particleManager.SpawnParticle("ConfettiLeft");
+        particleManager.SpawnParticle("ConfettiRight");
 
     }
     public void SubtractCoin(int discount)
